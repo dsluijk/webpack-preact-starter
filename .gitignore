@@ -1,0 +1,12 @@
+# Editor specific
+.vscode
+
+# Node modules
+node_modules
+
+# Build files
+dist
+stats.json
+
+# Package lock file
+package-lock.json

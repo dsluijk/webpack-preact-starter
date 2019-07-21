@@ -1,0 +1,35 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  @media screen and (min-width: 1024px) {
+    padding: 5vh 20vw;
+    background-color: #f0f0f0;
+  }
+}
+
+main {
+  padding: 1vh 1vw;
+  background-color: #fff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  margin: 0;
+  padding: 0.25em 0;
+}
+
+h1,
+h2 {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+p {
+  margin: 8px 0;
+}
